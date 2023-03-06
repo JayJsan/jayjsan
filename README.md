@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 - 📄 View my [CV](./cv/cv.pdf) (not finished!)
 - ⚡ 2023 Goals: To create and finish more projects and collaborate with others!
 
-Im a Penultimate Computer Systems Engineering student at The University of Auckland.
+I'm a Penultimate Computer Systems Engineering student at The University of Auckland.
 I'm interested in all kinds of tech but am mostly interested in the software aspect of things, especially web development. However, I am still very keen to learn all kinds of things. 
 
-For now, I am focusing on web development starting from front-end development and eventually to full-stack. Eventually I'd want to delve into mobile app development, game development, or something to do with machine learning and AI. 
+For now, I am focusing on web development starting from front-end development and eventually to full-stack. Eventually, I'd want to delve into mobile app development, game development, or something to do with machine learning and AI. 
 
 ---
 ### 🖥️ Things I've played around with:
