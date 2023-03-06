@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-`TL;DR`
+### `TL;DR`
 - 👯 Computer Systems Engineering Student at [The University of Auckland](https://www.auckland.ac.nz/en/engineering/about-the-faculty/electrical-computer-and-software-engineering.html)
 - 💻 I’m currently learning Web Development!
 - ⚙️ I'm interested in all sorts of software development.
