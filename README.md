@@ -37,6 +37,12 @@ For now, I am focusing on web development starting from front-end development an
 
 ---
 
+## Current Personal Project I'm Working On!:
+
+### [Rebellion of the Eight Ball](https://github.com/JayJsan/RotEB) - A Unity Game Dev Project
+
+---
+
 ### 🖥️ Things I've played around with:
 
 ##### Languages
@@ -60,6 +66,9 @@ For now, I am focusing on web development starting from front-end development an
 
 ##### Computer Systems
 
+![Quartus](https://img.shields.io/badge/Quartus_Prime-00285A?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-0000FF?style=for-the-badge)
+![Cyclone V FPGA](https://img.shields.io/badge/Cyclone_V_FPGA-0067a5?style=for-the-badge)
 ![ATmega328PB](https://img.shields.io/badge/ATmega328PB-ed1b2d?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-8E0A26?style=for-the-badge)
 ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-EE3233?style=for-the-badge)
@@ -74,6 +83,10 @@ For now, I am focusing on web development starting from front-end development an
 ##### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
