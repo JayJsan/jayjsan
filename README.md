@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning Web Development!
 - ⚙️ I'm interested in all sorts of software development.
 - 📧 Email me at [`job.santos924@gmail.com`](mailto:job.santos924@gmail.com) (Josef is my middle name)
-- 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/josef-santos-7b184a205/)
+- 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/jobjosefsantos/)
 - 📄 View my [CV](./cv/Job%20Santos%20-%20Software%20CV.pdf)
 - 👨‍🎓 University GitHub Account: [@jsan502](https://github.com/jsan502) - Used for assignments that don't allow @JayJsan to be used
 - ⚡ 2023 Goals: To create and finish more projects and collaborate with others!
