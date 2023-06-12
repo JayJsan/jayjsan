@@ -91,15 +91,15 @@ For now, I am focusing on web development starting from **front-end development*
 
 ### 💻 **Software Development** 💻
 
-#### [**Candeez**](https://github.com/JayJsan/Candeez) - COMPSYS 302 Project 2 - An Android application created to showcase sweet and savoury snacks.
+- #### [**Candeez**](https://github.com/JayJsan/Candeez) - COMPSYS 302 Project 2 - An Android application created to showcase sweet and savoury snacks.
 
-#### [**AI-Based ASL Interpreter**](https://github.com/JayJsan/AI-ASL-Python) - COMPSYS 302 Project 1 - A Python application that uses Machine Learning to recognize ASL symbols and give a prediction based on the image inputted.
+- #### [**AI-Based ASL Interpreter**](https://github.com/JayJsan/AI-ASL-Python) - COMPSYS 302 Project 1 - A Python application that uses Machine Learning to recognize ASL symbols and give a prediction based on the image inputted.
 
 ### 🛠 **Embedded Systems** 🛠
 
-#### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - COMPSYS 305 - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
+- #### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - COMPSYS 305 - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
 
-#### [**Smart Energy Monitor**](https://github.com/JayJsan/Smart-Energy-Monitor) - COMPSYS 209 - A smart energy monitor that displays the power, current, or voltage of an inductive load.
+- #### [**Smart Energy Monitor**](https://github.com/JayJsan/Smart-Energy-Monitor) - COMPSYS 209 - A smart energy monitor that displays the power, current, or voltage of an inductive load.
 
 ---
 
@@ -107,13 +107,13 @@ For now, I am focusing on web development starting from **front-end development*
 
 ### 🌐 **Web Development** 🌐
 
-#### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
+- #### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
 
 ### 🎮 **Game Development** 🎮
 
-#### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A fun small Unity side project I started to test the experience I've gained so far.
+- #### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A fun small Unity side project I started to test the experience I've gained so far.
 
-#### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity side project that I hope to eventually come back to when I am more experienced.
+- #### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity side project that I hope to eventually come back to when I am more experienced.
 
 <!-- ## Collaboration Projects:
 -- FOR WHEN I ACTUALLY DO COLLABORATION PROJECTS
