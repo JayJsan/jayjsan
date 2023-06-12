@@ -8,13 +8,13 @@
         Interested in all sorts of Software Development.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jobjosefsantos/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&color=black&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Software%20CV.pdf">
-        <img src="https://img.shields.io/badge/Curriculum%20Vitae-blue?style=flat-square&logo=ReactHookForm&logoColor=white" alt="CV">
+        <img src="https://img.shields.io/badge/Curriculum%20Vitae-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=white" alt="CV">
     </a>
     <a href="mailto:job.santos924@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&color=black&logo=Gmail&logoColor=white" alt="Email">
     </a>
 </p>
 
