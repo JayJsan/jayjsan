@@ -1,7 +1,5 @@
 # Hello there! 👋 I'm Josef aka `JayJsan` :)
 
----
-
 <!--
 **JayJsan/jayjsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,15 +29,45 @@ Here are some ideas to get you started:
 - ⚡ 2023 Goals: To create and finish more projects and collaborate with others!
 
 I'm a Penultimate Computer Systems Engineering student at The University of Auckland.
-I'm interested in all kinds of tech but am mostly interested in the software aspect of things, especially web development. However, I am still very keen to learn all kinds of things.
+I'm interested in all kinds of tech but am mostly interested in the software aspect of things, especially web development.
 
 For now, I am focusing on web development starting from front-end development and eventually to full-stack. Eventually, I'd want to delve into mobile app development, game development, or something to do with machine learning and AI.
 
 ---
 
+# Projects
+
 ## Current Personal Project I'm Working On!:
 
-### [Rebellion of the Eight Ball](https://github.com/JayJsan/RotEB) - A Unity Game Dev Project
+### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A Unity Game Dev Project
+
+## University Projects:
+
+### **Software Development**
+
+#### [**Candeez**](https://github.com/JayJsan/Candeez) - COMPSYS 302 Project 2 - An Android application created to showcase sweet and savoury snacks.
+
+#### [**AI-Based ASL Interpreter**](https://github.com/JayJsan/AI-ASL-Python) - COMPSYS 302 Project 1 - A Python application that uses Machine Learning to recognize ASL symbols and give a prediction based on the image inputted.
+
+### **Embedded Systems**
+
+#### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - COMPSYS 305 - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
+
+#### [**Smart Energy Monitor**](https://github.com/JayJsan/Smart-Energy-Monitor) - COMPSYS 209 - A smart energy monitor that displays the power, current, or voltage of an inductive load.
+
+## Personal Projects:
+
+### **Web Development**
+
+#### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
+
+### **Game Development**
+
+#### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity Game Development side project that I hope to eventually come back to when I am more experienced.
+
+<!-- ## Collaboration Projects:
+-- FOR WHEN I ACTUALLY DO COLLABORATION PROJECTS
+#### [KarAIoki]() -->
 
 ---
 
