@@ -1,41 +1,34 @@
-# Hello there! 👋 I'm Josef aka `JayJsan` :)
+<h1 align="center">Hello there! I'm <b style="color: lightblue">Josef</b> 😎</h1>
 
-<!--
-**JayJsan/jayjsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm a Penultimate CSE student at <a href>The University of Auckland</a>.<br>
+        Currently learning Web Development! (I suck😔)<br>
+        Interested in all sorts of Software Development.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/jobjosefsantos/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Software%20CV.pdf">
+        <img src="https://img.shields.io/badge/Curriculum%20Vitae-blue?style=flat-square&logo=ReactHookForm&logoColor=white" alt="CV">
+    </a>
+    <a href="mailto:job.santos924@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    </a>
+</p>
 
-Here are some ideas to get you started:
+# **About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Penultimate Computer Systems Engineering** student at **The University of Auckland**.
+I'm interested in all kinds of tech but am mostly interested in the **software aspect** of things, especially **web development**
 
-## About me
-
-### `TL;DR`
-
-- 👯 Computer Systems Engineering Student at [The University of Auckland](https://www.auckland.ac.nz/en/engineering/about-the-faculty/electrical-computer-and-software-engineering.html)
-- 💻 I’m currently learning Web Development!
-- ⚙️ I'm interested in all sorts of software development.
-- 📧 Email me at [`job.santos924@gmail.com`](mailto:job.santos924@gmail.com) (Josef is my middle name)
-- 🌏 Connect with me on [LinkedIn](https://www.linkedin.com/in/jobjosefsantos/)
-- 📄 View my [CV](./cv/Job%20Santos%20-%20Software%20CV.pdf)
-- 👨‍🎓 University GitHub Account: [@jsan502](https://github.com/jsan502) - Used for assignments that don't allow @JayJsan to be used
-- ⚡ 2023 Goals: To create and finish more projects and collaborate with others!
-
-I'm a Penultimate Computer Systems Engineering student at The University of Auckland.
-I'm interested in all kinds of tech but am mostly interested in the software aspect of things, especially web development.
-
-For now, I am focusing on web development starting from front-end development and eventually to full-stack. Eventually, I'd want to delve into mobile app development, game development, or something to do with machine learning and AI.
+For now, I am focusing on web development starting from **front-end development** and eventually to **full-stack**. Eventually, I'd want to delve into **mobile app development**, **game developmen**t, or something to do with **Machine Learning and AI**.
 
 ---
 
-# **Projects**
+<details>
+<summary><h2><b>Projects 📝</b></h2></summary>
 
 > ## ✨**Current project I'm working on!** ✨
 >
@@ -71,13 +64,15 @@ For now, I am focusing on web development starting from front-end development an
 >
 > #### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity side project that I hope to eventually come back to when I am more experienced.
 
+</details>
+
 <!-- ## Collaboration Projects:
 -- FOR WHEN I ACTUALLY DO COLLABORATION PROJECTS
 #### [KarAIoki]() -->
 
 ---
 
-### 🖥️ Things I've played around with:
+### Things I've played around with 🖥️
 
 ##### Languages
 
@@ -130,8 +125,11 @@ For now, I am focusing on web development starting from front-end development an
 
 ---
 
-### 📈 Statistics
+<details>
+<summary><h3><b>Statistics 📈</b><h3></summary>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjsan&count_private=true&theme=react&layout=compact&langs_count=12&hide_border=true&hide=tex)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayjsan&count_private=true&show_icons=true&theme=react&hide_border=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=jayjsan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</details>
