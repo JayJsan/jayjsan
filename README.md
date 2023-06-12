@@ -27,51 +27,6 @@ For now, I am focusing on web development starting from **front-end development*
 
 ---
 
-<details>
-<summary><h2><b>Projects 📝</b></h2></summary>
-
-> ## ✨**Current project I'm working on!** ✨
->
-> ### ✨ [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - Currently in the prototyping stage!✨
-
----
-
-> ## 👨‍🎓 **University Projects** 👨‍🎓
->
-> ### 💻 **Software Development** 💻
->
-> #### [**Candeez**](https://github.com/JayJsan/Candeez) - COMPSYS 302 Project 2 - An Android application created to showcase sweet and savoury snacks.
->
-> #### [**AI-Based ASL Interpreter**](https://github.com/JayJsan/AI-ASL-Python) - COMPSYS 302 Project 1 - A Python application that uses Machine Learning to recognize ASL symbols and give a prediction based on the image inputted.
->
-> ### 🛠 **Embedded Systems** 🛠
->
-> #### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - COMPSYS 305 - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
->
-> #### [**Smart Energy Monitor**](https://github.com/JayJsan/Smart-Energy-Monitor) - COMPSYS 209 - A smart energy monitor that displays the power, current, or voltage of an inductive load.
-
----
-
-> ## 🧑 **Personal Projects** 🧑
->
-> ### 🌐 **Web Development** 🌐
->
-> #### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
->
-> ### 🎮 **Game Development** 🎮
->
-> #### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A fun small Unity side project I started to test the experience I've gained so far.
->
-> #### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity side project that I hope to eventually come back to when I am more experienced.
-
-</details>
-
-<!-- ## Collaboration Projects:
--- FOR WHEN I ACTUALLY DO COLLABORATION PROJECTS
-#### [KarAIoki]() -->
-
----
-
 ### Things I've played around with 🖥️
 
 ##### Languages
@@ -122,6 +77,51 @@ For now, I am focusing on web development starting from **front-end development*
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&color=black&logo=Trello&logoColor=026AA7)
 ![VEGAS Pro](https://img.shields.io/badge/-VEGAS%20Pro-000000?logo=vitess&logoColor=11B3FF&style=for-the-badge)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&color=black&logo=adobe%20photoshop&logoColor=31A8FF)
+
+---
+
+<details>
+<summary><h2><b>Projects 📝</b></h2></summary>
+
+> ## ✨**Current project I'm working on!** ✨
+>
+> ### ✨ [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - Currently in the prototyping stage!✨
+
+---
+
+> ## 👨‍🎓 **University Projects** 👨‍🎓
+>
+> ### 💻 **Software Development** 💻
+>
+> #### [**Candeez**](https://github.com/JayJsan/Candeez) - COMPSYS 302 Project 2 - An Android application created to showcase sweet and savoury snacks.
+>
+> #### [**AI-Based ASL Interpreter**](https://github.com/JayJsan/AI-ASL-Python) - COMPSYS 302 Project 1 - A Python application that uses Machine Learning to recognize ASL symbols and give a prediction based on the image inputted.
+>
+> ### 🛠 **Embedded Systems** 🛠
+>
+> #### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - COMPSYS 305 - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
+>
+> #### [**Smart Energy Monitor**](https://github.com/JayJsan/Smart-Energy-Monitor) - COMPSYS 209 - A smart energy monitor that displays the power, current, or voltage of an inductive load.
+
+---
+
+> ## 🧑 **Personal Projects** 🧑
+>
+> ### 🌐 **Web Development** 🌐
+>
+> #### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
+>
+> ### 🎮 **Game Development** 🎮
+>
+> #### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A fun small Unity side project I started to test the experience I've gained so far.
+>
+> #### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity side project that I hope to eventually come back to when I am more experienced.
+
+</details>
+
+<!-- ## Collaboration Projects:
+-- FOR WHEN I ACTUALLY DO COLLABORATION PROJECTS
+#### [KarAIoki]() -->
 
 ---
 
