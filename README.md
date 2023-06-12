@@ -37,7 +37,7 @@ For now, I am focusing on web development starting from front-end development an
 
 > # **Projects**
 >
-> ## **Current project I'm working on!**
+> ## ✨**Current project I'm working on!** ✨
 >
 > > ### ✨ [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - Currently in the prototyping stage!✨
 >
@@ -62,9 +62,9 @@ For now, I am focusing on web development starting from front-end development an
 > > ### 🌐 **Web Development** 🌐
 > >
 > > #### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
->
+> >
 > > ---
->
+> >
 > > ### 🎮 **Game Development** 🎮
 > >
 > > #### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A fun small Unity side project I started to test the experience I've gained so far.
