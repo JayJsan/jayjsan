@@ -85,8 +85,6 @@ For now, I am focusing on web development starting from **front-end development*
 
 ### ✨ [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - Currently in the prototyping stage!✨
 
----
-
 ## 👨‍🎓 **University Projects** 👨‍🎓
 
 ### 💻 **Software Development** 💻
@@ -100,8 +98,6 @@ For now, I am focusing on web development starting from **front-end development*
 - #### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - COMPSYS 305 - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
 
 - #### [**Smart Energy Monitor**](https://github.com/JayJsan/Smart-Energy-Monitor) - COMPSYS 209 - A smart energy monitor that displays the power, current, or voltage of an inductive load.
-
----
 
 ## 🧑 **Personal Projects** 🧑
 
