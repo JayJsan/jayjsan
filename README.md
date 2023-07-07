@@ -21,7 +21,7 @@
 # **About me**
 
 I'm a **Penultimate Computer Systems Engineering** student at **The University of Auckland**.
-I'm interested in all kinds of tech but am mostly interested in the **software aspect** of things, especially **web development**
+I'm interested in all kinds of tech but am mostly interested in the **software aspect** of things.
 
 For now, I am focusing on web development starting from **front-end development** and eventually to **full-stack**. Eventually, I'd want to delve into **mobile app development**, **game developmen**t, or something to do with **Machine Learning and AI**.
 
