@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm a Penultimate CSE student at <a href="https://www.auckland.ac.nz/en/engineering/about-the-faculty/electrical-computer-and-software-engineering.html">The University of Auckland</a>.<br>
-        Currently learning Web Development! (I suck😔)<br>
+        Currently learning about ML & AI!<br>
         Interested in all sorts of Software Development.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/jobjosefsantos/">
@@ -23,7 +23,9 @@
 I'm a **Penultimate Computer Systems Engineering** student at **The University of Auckland**.
 I'm interested in all kinds of tech but am mostly interested in the **software aspect** of things.
 
-For now, I am focusing on web development starting from **front-end development** and eventually to **full-stack**. Eventually, I'd want to delve into **mobile app development**, **game developmen**t, or something to do with **Machine Learning and AI**.
+I am currently focusing on **learning** all sorts of technologies. I plan to learn the **MERN** stack for **web development**, create an **Android** app using **React Native**, **completely finish** developing a game using **Unity**, **experiment** with **Machine Learning and AI**, and hopefully finish some **projects** along the journey.
+
+<!-- For now, I am focusing on web development starting from **front-end development** and eventually to **full-stack**. Eventually, I'd want to delve into **mobile app development**, **game developmen**t, or something to do with **Machine Learning and AI**. -->
 
 ---
 
@@ -83,7 +85,9 @@ For now, I am focusing on web development starting from **front-end development*
 
 ## ✨**Current project I'm working on!** ✨
 
-### ✨ [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - Currently in the prototyping stage!✨
+### ✨ [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - Currently in the prototyping stage! ✨
+
+### 💼 **Portfolio Website** - Currently conceptualizing💼
 
 ## 👨‍🎓 **University Projects** 👨‍🎓
 
@@ -105,14 +109,24 @@ For now, I am focusing on web development starting from **front-end development*
 
 - #### [**Calculator**](https://github.com/JayJsan/HTML-JS-Calculator) - A basic calculator developed using HTML, CSS, and JavaScript.
 
+- #### [**Weather App**](https://github.com/JayJsan/React-Weather-App) - A weather app based on react with dynamic backgrounds and icon based on the location you input.
+
 ### 🎮 **Game Development** 🎮
 
 - #### [**Rebellion of the Eight Ball**](https://github.com/JayJsan/RotEB) - A fun small Unity side project I started to test the experience I've gained so far.
 
 - #### [**Legend of the Gunsmith**](https://github.com/JayJsan/ProjectGunsmith) - A shelved Unity side project that I hope to eventually come back to when I am more experienced.
 
+## ⏱ **Hackathons & Game Jams** ⏱
+
+- #### [**KarAIoki**](https://github.com/TerribleIdeasHackathon/karaoke) - 2023 Terrible Ideas Hackathon - A web app that uses an AI api to translate the lyrics of a song the user has chosen to the opposite of their meaning.
+
+- #### [**Pet, Path, Beyond**](https://github.com/lia-arroyo/swag-crew-hackathon) - 2023 GDSC x DEVS Hackathon - A web app based around the concept of walking your virtual pet in their virtual world by walking in real life. The theme was TOUCH GRASS.
+
+- #### [**Fruit**](https://github.com/JayJsan/GMTK-Game-Jam-2023) - 2023 GMTK Game Jam - A game with the concept of Snake but instead, you're the fruit, along with other rogue-like mechanics and abilities. The theme was ROLES REVERSED. Did not finish in time as I was doing the 2023 GDSC x DEVS Hackathon at the same time.
 <!-- ## Collaboration Projects:
 -- FOR WHEN I ACTUALLY DO COLLABORATION PROJECTS
+
 #### [KarAIoki]() -->
 
 </details>
