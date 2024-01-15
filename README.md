@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm a Penultimate CSE student at <a href="https://www.auckland.ac.nz/en/engineering/about-the-faculty/electrical-computer-and-software-engineering.html">The University of Auckland</a>.<br>
+        I'm a Final Year CSE student at <a href="https://www.auckland.ac.nz/en/engineering/about-the-faculty/electrical-computer-and-software-engineering.html">The University of Auckland</a>.<br>
         Currently learning about ML & AI!<br>
         Interested in all sorts of Software Development.<br>
     </i><br>
