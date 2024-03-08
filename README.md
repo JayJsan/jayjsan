@@ -10,11 +10,20 @@
     <a href="https://www.linkedin.com/in/jobjosefsantos/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&color=black&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Software%20CV.pdf">
-        <img src="https://img.shields.io/badge/Curriculum%20Vitae-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=white" alt="CV">
-    </a>
     <a href="mailto:job.santos924@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&color=black&logo=Gmail&logoColor=white" alt="Email">
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Software%20CV.pdf">
+        <img src="https://img.shields.io/badge/Software%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=red" alt="CV1">
+    </a>
+    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20WebDevelopment%20CV.pdf">
+        <img src="https://img.shields.io/badge/Web%20Development%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=blue" alt="CV2">
+    </a>
+    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20EmbeddedSoftware%20CV.pdf">
+        <img src="https://img.shields.io/badge/Embedded%20Software%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=white" alt="CV3">
     </a>
 </p>
 
