@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+    <b>View my Curriculum Vitae</b><br><br>
     <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Software%20CV.pdf">
         <img src="https://img.shields.io/badge/Software%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=red" alt="CV1">
     </a>
