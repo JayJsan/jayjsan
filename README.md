@@ -19,10 +19,10 @@
     <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Software%20CV.pdf">
         <img src="https://img.shields.io/badge/Software%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=red" alt="CV1">
     </a>
-    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20WebDevelopment%20CV.pdf">
+    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Web%20Development%20CV.pdf">
         <img src="https://img.shields.io/badge/Web%20Development%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=blue" alt="CV2">
     </a>
-    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20EmbeddedSoftware%20CV.pdf">
+    <a href="https://github.com/JayJsan/jayjsan/blob/main/cv/Job%20Santos%20-%20Embedded%20Software%20CV.pdf">
         <img src="https://img.shields.io/badge/Embedded%20Software%20CV-blue?style=flat-square&color=black&logo=ReactHookForm&logoColor=white" alt="CV3">
     </a>
 </p>
@@ -46,7 +46,6 @@ I am currently focusing on **learning** all sorts of technologies. I am currentl
 ![Redux](https://img.shields.io/badge/rn%20redux-black?style=for-the-badge&logo=redux)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&color=black&logo=CoffeeScript&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=htmx)
-
 
 ##### Web Development
 
@@ -99,13 +98,12 @@ I am currently focusing on **learning** all sorts of technologies. I am currentl
 ![VEGAS Pro](https://img.shields.io/badge/-VEGAS%20Pro-000000?logo=vitess&logoColor=11B3FF&style=for-the-badge)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&color=black&logo=adobe%20photoshop&logoColor=31A8FF)
 
-
 <details>
 <summary><h2><b>Projects 📝</b></h2></summary>
 
 ## ✨**Current project I'm working on!** ✨
 
-### ✨ [**MonoGame-Based ECS Game Engine**](https://github.com/JayJsan/ECS-Game-Engine)✨ -- Currently paused. Working on a secret project. 
+### ✨ [**MonoGame-Based ECS Game Engine**](https://github.com/JayJsan/ECS-Game-Engine)✨ -- Currently paused. Working on a secret project.
 
 ### 💼 **Portfolio Website** - Currently conceptualizing💼
 
@@ -118,6 +116,7 @@ I am currently focusing on **learning** all sorts of technologies. I am currentl
 - #### [**AI-Based ASL Interpreter**](https://github.com/JayJsan/AI-ASL-Python) - A Python application that uses Machine Learning to recognize ASL symbols and give a prediction based on the image inputted.
 
 ### 🛠 **Embedded Systems** 🛠
+
 - #### [**FPGA Virtual Pacemaker**](https://github.com/JayJsan/Virtual-Pacemaker) - An FPGA board programmed to receive a virtual heart transmission of heartbeats and react accordingly to virtually pace the artifical heart.
 
 - #### [**FPGA Flappy Bird**](https://github.com/JayJsan/FPGA-Flappy-Bird) - A Flappy Bird-like game made to run on the FPGA Cyclone V DE0-CV board.
@@ -140,7 +139,7 @@ I am currently focusing on **learning** all sorts of technologies. I am currentl
 
 ## ⏱ **Hackathons & Game Jams** ⏱
 
-- #### [**Doorway Dynamo**](https://itch.io/jam/brackeys-11/rate/2535489) - 2024.1 Brackey's Game Jam - Won *#10* in the Innovation category - A game about playing doors to explore unknown rooms to find the key to escape. The theme for this game jam was "What's behind the door?"  
+- #### [**Doorway Dynamo**](https://itch.io/jam/brackeys-11/rate/2535489) - 2024.1 Brackey's Game Jam - Won _#10_ in the Innovation category - A game about playing doors to explore unknown rooms to find the key to escape. The theme for this game jam was "What's behind the door?"
 
 - #### [**KarAIoki**](https://github.com/TerribleIdeasHackathon/karaoke) - 2023 Terrible Ideas Hackathon - A web app that uses an AI api to translate the lyrics of a song the user has chosen to the opposite of their meaning.
 
